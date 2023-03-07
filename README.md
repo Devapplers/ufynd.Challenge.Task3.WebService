@@ -6,8 +6,8 @@ Use these instructions to get the project up and running.
 You will need the following tools:
 
 * [Visual Studio 2019](https://visualstudio.microsoft.com/downloads/)
-* [.Net Core 3.0 or later](https://dotnet.microsoft.com/download/dotnet-core/2.2)
-* EF Core 3.0 or later
+* [.Net Core 6.0 or later](https://dotnet.microsoft.com/download/dotnet-core/6.0)
+* EF Core 6.0 or later
 
 ### Installing
 Follow these steps to get your development environment set up:
